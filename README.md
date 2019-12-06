@@ -18,4 +18,4 @@ Diamond
                                                                                                           
 <img src="https://github.com/Schildsladder/Raman-Spectrometer/blob/master/pictures/raman-diamond.png" width="80%">
 
-<img src="https://github.com/Schildsladder/Raman-Spectrometer/blob/master/pictures/raman-ccd.jpg" width="80%">
+<img src="https://github.com/Schildsladder/Raman-Spectrometer/blob/master/pictures/raman%20operation.jpg" width="80%">
