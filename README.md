@@ -1,5 +1,7 @@
 # Raman Spectrometer
 
+<img src="https://github.com/Schildsladder/Raman-Spectrometer/blob/master/pictures/pd_small.jpg" width="80%">
+
 The spectrometer uses tranmission layout. Linear CCD camera TCD1304 are mounted on thermoelectric cooler and digital thermometer. Tripple stage thermoelectric cooler can reach -25 degrees celcius enabling up to 10 minutes expossure time. 
 
 <img src="https://github.com/Schildsladder/Raman-Spectrometer/blob/master/pictures/raman-ccd.jpg" width="80%">
